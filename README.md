@@ -12,7 +12,8 @@ Modern e-commerce applications demand **rapid, reliable, and scalable delivery p
 This project aims to address these challenges by implementing a **complete DevOps pipeline** — from infrastructure provisioning to production deployment — using **AWS, Terraform, Docker, Kubernetes (EKS), GitHub Actions, and ArgoCD**.  
 
 ## Data Flow Diagram 
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/4cc9310f-1a1f-4508-ad4b-f40c0687e6d4" />
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/c32087ba-2a27-4b4f-80de-c924594c1717" />
+
 
 
 ### 🎯 Goal
